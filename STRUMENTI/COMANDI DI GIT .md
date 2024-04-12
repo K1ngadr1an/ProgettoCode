@@ -15,10 +15,10 @@
  - **git tag** : Crea, visualizza e gestisce i tag nel repository. I tag sono utilizzati per etichettare punti specifici nella cronologia dei commit, come versioni del software.
  -**git reflog**: Visualizza un registro delle azioni di riferimento recenti nel repository. Può essere utile per recuperare i commit "persi" o per risolvere problemi relativi alla cronologia dei commit.
  - **git config --global user.email "<email>"** : Imposta l'email globale per i commit.
- - git cherry-pick <commit>: Applica le modifiche di un commit specifico al branch corrente.
+ - **git cherry-pick** <commit>: Applica le modifiche di un commit specifico al branch corrente.
  - **git bisect good <commit>**: Indica a Git un commit buono.
  - **git log --oneline** : Visualizza il log dei commit in una riga per commit.   
- -**git log --stat** : Visualizza le statistiche delle modifiche nei commit.
+ - **git log --stat** : Visualizza le statistiche delle modifiche nei commit.
  - **git log --graph** : Visualizza il log dei commit con il grafico dei branch.
 
  - **git help** <command>: Visualizza la documentazione per il comando specificato.
