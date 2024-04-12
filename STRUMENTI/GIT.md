@@ -1,0 +1,12 @@
+- git init: Inizializza un nuovo repository Git nella directory corrente
+- git clone <url>: Clona un repository Git esistente nella tua directory locale. L'URL può essere sia HTTPS che SSH.
+- git add <file>: Aggiunge un file specifico all'area di staging per il prossimo commit. Puoi utilizzare "." per aggiungere tutti i file modificati nell'area di staging.
+- git commit -m "messaggio": Esegue il commit delle modifiche nell'area di staging con un messaggio di commit descrittivo.
+- git status: Visualizza lo stato corrente del repository, inclusi i file modificati, i file nell'area di staging e altro ancora.
+- git push: Invia i commit locali al repository remoto.
+- git pull: Recupera le modifiche dal repository remoto e le applica al branch locale
+- git branch: Visualizza l'elenco dei branch nel repository. Aggiungere "-a" mostra tutti i branch, inclusi quelli remoti.
+- git checkout <branch>: Passa a un branch specifico nel repository.
+- git merge <branch>: Incorpora le modifiche di un branch specifico nel branch attuale.
+- git log: Visualizza la cronologia dei commit nel repository.
+        
