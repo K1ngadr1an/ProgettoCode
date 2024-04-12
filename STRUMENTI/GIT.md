@@ -9,4 +9,8 @@
 - git checkout <branch>: Passa a un branch specifico nel repository.
 - git merge <branch>: Incorpora le modifiche di un branch specifico nel branch attuale.
 - git log: Visualizza la cronologia dei commit nel repository.
-        
+ - git diff: Mostra le differenze tra due punti nel tempo, come le modifiche tra il lavoro nell'area di lavoro e gli aggiornamenti nell'area di staging, o le differenze tra due commit.
+ - git branch -d <branch>: Elimina un branch locale dopo averlo fuso con successo. Usa -D invece di -d per forzare l'eliminazione anche se non è stato fuso.
+ - git pull --rebase: Recupera le modifiche dal repository remoto e le applica al branch locale utilizzando il rebase anziché il merge.
+ - git tag: Crea, visualizza e gestisce i tag nel repository. I tag sono utilizzati per etichettare punti specifici nella cronologia dei commit, come versioni del software.
+ -git reflog: Visualizza un registro delle azioni di riferimento recenti nel repository. Può essere utile per recuperare i commit "persi" o per risolvere problemi relativi alla cronologia dei commit.       
