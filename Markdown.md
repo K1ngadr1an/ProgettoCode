@@ -20,9 +20,11 @@ Markdown è un linguaggio di formattazione leggero utilizzato per scrivere testo
 1. primo elemento
 2. secondo elemento 
 ## Link
-Per creare un link, usa il seguente formato: [Testo del link](URL). Esempio: [Google](https://www.google.com).
+Per creare un link, usa il seguente formato: 
+>[Testo del link] (URL). Esempio: [Google] (https://www.google.com).
 ## Immagini
-Per inserire un'immagine, usa il formato simile ai link ma precedilo con un punto esclamativo: ![Alt text](URL immagine)
+Per inserire un'immagine, usa il formato simile ai link ma precedilo con un punto esclamativo:
+> ![Alt text](URL immagine)
 ## Citazioni
 Le citazioni si creano con il simbolo >:
 >Sei un fenomeno
