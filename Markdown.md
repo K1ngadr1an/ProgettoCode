@@ -8,6 +8,5 @@ Markdown è un linguaggio di formattazione leggero utilizzato per scrivere testo
 
 - **testo in grassetto** per testo in grassetto
 - Elemento 1 per un elemento di elenco non ordinato
-- 1. Elemento 1 per un elemento di elenco ordinato
+- Elemento 1 per un elemento di elenco ordinato
 - [testo del link](URL) per creare un link
-frffffff
