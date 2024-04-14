@@ -132,5 +132,13 @@ NPM è uno degli ecosistemi di pacchetti più vasti e attivi al mondo, con milio
 - Gestione dei dati relazionale: PostgreSQL offre un'ampia gamma di funzionalità per la gestione dei dati relazionale, tra cui supporto completo per le tabelle, le relazioni, le chiavi primarie e esterne, gli indici e le transazioni ACID (Atomicity, Consistency, Isolation, Durability).
 - PostgreSQL supporta numerose estensioni e funzionalità avanzate, tra cui tipi di dati personalizzati, funzioni e procedure memorizzate, trigger, viste, full-text search, geospaziali e molto altro ancora.
 - **PostgreSQL** è progettato per essere affidabile e robusto, con un'architettura che garantisce l'integrità e la coerenza dei dati anche in situazioni di guasto o errore del sistema. Supporta il backup e il ripristino, la replica e la gestione avanzata delle transazioni per garantire la sicurezza e l'affidabilità dei dati.
+## Server side e Client side
+- Il **"client side"** si riferisce alla parte dell'applicazione web che viene eseguita all'interno del browser web dell'utente. Le responsabilità principali del client side includono:
+- Gestione degli eventi utente: Il client side gestisce gli eventi utente come clic sui pulsanti, inserimento di testo nei moduli, scorrimento delle pagine e altre interazioni con l'interfaccia utente.
+- Miglioramenti delle prestazioni e dell'esperienza utente: Il client side può eseguire operazioni di caching, ottimizzazione delle risorse e altre tecniche per migliorare le prestazioni e l'esperienza utente.
+-  il **"server side"** si riferisce alla parte dell'applicazione web eseguita sul server remoto.
+## Operazioni di Caching
+- Le operazioni di caching si riferiscono alla pratica di memorizzare temporaneamente i dati in una posizione di archiviazione temporanea chiamata "cache", al fine di accelerare l'accesso e ridurre il carico sui sistemi sottostanti. Questa tecnica è ampiamente utilizzata in diversi contesti, inclusi quelli delle applicazioni web, dei database e dei sistemi operativi.
+
 
 
