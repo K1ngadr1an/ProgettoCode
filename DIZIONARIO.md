@@ -12,6 +12,20 @@ Markdown è un linguaggio di formattazione leggero utilizzato per scrivere testo
 Uno snippet è un frammento di codice predefinito che può essere riutilizzato per eseguire determinate operazioni o implementare determinate funzionalità all'interno di un programma o di un ambiente di sviluppo. Gli snippet sono utili per automatizzare operazioni comuni e ridurre la necessità di scrivere manualmente codice ripetitivo. I "snippet" sono utilizzati per automatizzare compiti comuni di programmazione e per evitare la duplicazione del codice.
 ## Database
 Un database è un sistema organizzato e strutturato per la gestione, l'archiviazione e la manipolazione di dati. In termini più semplici, è un insieme di dati correlati tra loro e organizzati in modo che possano essere facilmente recuperati, aggiornati o modificati secondo necessità.
+Vi sono 2 ulteriori suddivisioni di Database:
+- **Database relazionale**: Un database relazionale è un tipo di database che organizza i dati in tabelle strutturate in righe e colonne, dove le relazioni tra i dati sono definite mediante chiavi primarie e chiavi esterne.I dati all'interno di un database relazionale sono organizzati in tabelle, dove ogni tabella rappresenta un'entità o un concetto e ogni riga rappresenta una singola istanza di quella entità. Le colonne della tabella rappresentano gli attributi o le proprietà di quell'entità.
+- **Database non Relazionale**:I database non relazionali, anche noti come NoSQL (Not Only SQL) o database non strutturati, sono sistemi di gestione di database progettati per gestire dati che non si adattano bene al modello tabellare dei database relazionali tradizionali. Questi database sono progettati per affrontare le limitazioni dei database relazionali in termini di scalabilità, flessibilità del modello dei dati e gestione di grandi volumi di dati non strutturati o semi-strutturati.
+## Tabelle e interrogazioni:
+- Le tabelle e le interrogazioni sono concetti fondamentali nei database relazionali che consentono di organizzare e manipolare i dati in modo efficace.
+- **Tabelle**: Le tabelle sono la struttura primaria per archiviare i dati all'interno di un database relazionale. Ogni tabella è composta da righe e colonne, dove ogni riga rappresenta un record di dati e ogni colonna rappresenta un attributo o una proprietà di quel record. 
+
+- Ad esempio, se si ha una tabella "Clienti", ogni riga potrebbe rappresentare un singolo cliente e le colonne potrebbero includere informazioni come il nome, l'indirizzo, il numero di telefono, ecc.
+- **Interrogazioni**: Le interrogazioni sono comandi o istruzioni che vengono eseguiti contro un database per recuperare, aggiornare o manipolare i dati in esso contenuti. Il linguaggio standard utilizzato per scrivere interrogazioni in un database relazionale è il SQL (Structured Query Language). Con SQL è possibile eseguire varie operazioni di interrogazione, tra cui:
+- **SELECT** Utilizzato per recuperare dati da una o più tabelle.
+- **INSERT**: Utilizzato per inserire nuovi record di dati in una tabella.
+- **UPDATE**: Utilizzato per aggiornare i dati esistenti in una tabella.
+- **DELETE**: Utilizzato per eliminare record di dati esistenti da una tabella.
+- **JOIN**: Utilizzato per combinare dati da più tabelle basandosi su una condizione di correlazione.
 ## Pair Programming
 Il pair programming è una pratica di sviluppo del software in cui due programmatori lavorano insieme su un'unica stazione di lavoro, con uno che scrive il codice **(il "driver")** e l'altro che offre feedback, verifica il codice e suggerisce miglioramenti **(il "navigator")**. Questa tecnica promuove la collaborazione, la comunicazione e la condivisione di conoscenze tra i membri del team di sviluppo.
 ## Growth Hacking
@@ -141,6 +155,12 @@ NPM è uno degli ecosistemi di pacchetti più vasti e attivi al mondo, con milio
 - Le operazioni di caching si riferiscono alla pratica di memorizzare temporaneamente i dati in una posizione di archiviazione temporanea chiamata "cache", al fine di accelerare l'accesso e ridurre il carico sui sistemi sottostanti. Questa tecnica è ampiamente utilizzata in diversi contesti, inclusi quelli delle applicazioni web, dei database e dei sistemi operativi.
 ## Hash di un commit
 - L'hash di un commit in Git è una stringa univoca generata utilizzando una funzione hash crittografica, come SHA-1, che rappresenta in modo univoco il contenuto di un commit specifico. Ogni commit in un repository Git ha il proprio hash, che identifica in modo univoco quel commit all'interno del repository.
+## DOM (Document Object Model)
+ È una rappresentazione gerarchica strutturata di un documento HTML (o XML) che viene creata dal browser web quando carica una pagina web. Il DOM rappresenta la struttura del documento web come un albero di nodi, in cui ogni elemento HTML è rappresentato da un nodo nel DOM. In particolare:
+ -  Il DOM organizza gli elementi HTML della pagina web in una struttura ad albero, con il nodo radice rappresentato dal tag **(html)** e i nodi figlio rappresentati dai tag **(head) e (body)**. Ogni elemento HTML come **(div),(p,) (a,)** ecc. è rappresentato da un nodo nel DOM.
+ - Il DOM fornisce un'interfaccia programmatica che consente agli sviluppatori di accedere e manipolare dinamicamente il contenuto, la struttura e lo stile della pagina web utilizzando JavaScript. Gli sviluppatori possono selezionare nodi specifici, aggiungere nuovi nodi, rimuovere nodi esistenti, modificare attributi e testi, gestire eventi e molto altro ancora.
+ ## Manipolazione del DOM
+ - La manipolazione del DOM si riferisce alla pratica di modificare dinamicamente la struttura, il contenuto e lo stile di una pagina web utilizzando JavaScript. Questa manipolazione può includere aggiungere, rimuovere o modificare elementi HTML, attributi, testo e stili CSS all'interno del documento web.
 
 
 
