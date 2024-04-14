@@ -139,6 +139,8 @@ NPM è uno degli ecosistemi di pacchetti più vasti e attivi al mondo, con milio
 -  il **"server side"** si riferisce alla parte dell'applicazione web eseguita sul server remoto.
 ## Operazioni di Caching
 - Le operazioni di caching si riferiscono alla pratica di memorizzare temporaneamente i dati in una posizione di archiviazione temporanea chiamata "cache", al fine di accelerare l'accesso e ridurre il carico sui sistemi sottostanti. Questa tecnica è ampiamente utilizzata in diversi contesti, inclusi quelli delle applicazioni web, dei database e dei sistemi operativi.
+## Hash di un commit
+- L'hash di un commit in Git è una stringa univoca generata utilizzando una funzione hash crittografica, come SHA-1, che rappresenta in modo univoco il contenuto di un commit specifico. Ogni commit in un repository Git ha il proprio hash, che identifica in modo univoco quel commit all'interno del repository.
 
 
 
