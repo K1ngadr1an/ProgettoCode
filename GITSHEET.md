@@ -1,22 +1,22 @@
 ## GIT SHEET
-#### Comandi di base
-##### 1)`Configurazione`
+### Comandi di base
+#### 1)`Configurazione`
 #### **`-git-config -- global user.name "tuo nome"`: Imposta il nome utente**
 #### **-`git-config -- global user.email "tua@email.com"`: Imposta l'indirizzo email dell'utente**
 #### **-`git-config --global core.editor "nome_del_tuo_editor`": Imposta l'editor di testo preferito.**
-2)`Creazione e Clonazione di Repository`
+#### 2)**`Creazione e Clonazione di Repository`**
 #### **-`git init`: Inizializza un nuovo repository Git nella directory corrente.**
 #### **-`git clone url_repository`: Clona un repository Git esistente nella tua directory locale.**
-3)`Operazioni sui File`
+#### 3)`Operazioni sui File`
 #### **-`git add nome_file`: Aggiunge un file all'area di staging.**
 #### **-`git add .`: Aggiunge tutti i file modificati all'area di staging.**
 #### **-`git rm nome_file`: Rimuove un file dalla repository e dall'area di staging.**
 #### **-`git mv vecchio_nome nuovo_nome`: Rinomina un file e aggiunge la modifica all'area di staging**
-4)`Commit`
+#### 4)`Commit`
 #### **-`git commit -m "Messaggio del commit"`: Esegue un commit con un messaggio descrittivo.**
 #### **-`git commit -a -m "Messaggio del commit"`: Aggiunge automaticamente e committa tutti i file modificati.**
 #### **`-git commit --amend: Modifica l'ultimo commit.`**
-5)`Gestione del Repository`
+#### 5)`Gestione del Repository`
 
 #### **`-git status`: Mostra lo stato del repository.**
 #### **-`git log`: Mostra la cronologia dei commit.**

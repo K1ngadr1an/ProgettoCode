@@ -161,6 +161,42 @@ NPM è uno degli ecosistemi di pacchetti più vasti e attivi al mondo, con milio
  - Il DOM fornisce un'interfaccia programmatica che consente agli sviluppatori di accedere e manipolare dinamicamente il contenuto, la struttura e lo stile della pagina web utilizzando JavaScript. Gli sviluppatori possono selezionare nodi specifici, aggiungere nuovi nodi, rimuovere nodi esistenti, modificare attributi e testi, gestire eventi e molto altro ancora.
  ## Manipolazione del DOM
  - La manipolazione del DOM si riferisce alla pratica di modificare dinamicamente la struttura, il contenuto e lo stile di una pagina web utilizzando JavaScript. Questa manipolazione può includere aggiungere, rimuovere o modificare elementi HTML, attributi, testo e stili CSS all'interno del documento web.
+ ## Virtual DOM
+ - il Virtual DOM è una rappresentazione virtuale e leggera della struttura del DOM esistente, che viene mantenuta in memoria dal framework JavaScript. Quando avviene un aggiornamento dei dati nell'applicazione, anziché manipolare direttamente il DOM del browser, il framework utilizza il Virtual DOM per calcolare le differenze tra la nuova rappresentazione dei dati e quella esistente.
+ ## Query
+ Una query è un'istruzione o un comando utilizzato per interrogare un database al fine di recuperare, modificare o manipolare i dati in esso contenuti. Le query sono scritte utilizzando linguaggi di interrogazione specifici del database, come SQL (Structured Query Language) per i database relazionali o altri linguaggi specializzati per i database non relazionali.
+ ## Comunicazione bidirezionale
+ La comunicazione bidirezionale, anche nota come comunicazione duplex, si riferisce a un tipo di comunicazione in cui i dati possono fluire in entrambe le direzioni tra due parti o sistemi. In altre parole, sia l'invio che la ricezione di dati avvengono contemporaneamente e in modo bidirezionale. In particolare:
+ - in una **comunicazione bidirezionale**, entrambe le parti coinvolte possono inviare e ricevere dati l'una dall'altra. Questo consente uno scambio completo di informazioni tra le parti.
+ - La comunicazione bidirezionale è spesso utilizzata in contesti che richiedono una interazione in tempo reale, come chat online, videoconferenze, giochi multiplayer online e applicazioni collaborative.
+ -  Ci sono diversi protocolli e tecnologie utilizzati per supportare la comunicazione bidirezionale. Ad esempio, WebSockets e Server-Sent Events (SSE) sono due tecnologie utilizzate per consentire la comunicazione bidirezionale tra client e server nelle applicazioni web.
+## Componenti
+- I "componenti" sono parti modulari e riutilizzabili di un'applicazione web che rappresentano specifiche funzionalità o interfacce utente. Questi componenti sono spesso autonomi e possono essere composti insieme per creare l'intera interfaccia utente dell'applicazione. Ogni componente può includere sia la logica di business che l'aspetto visivo, permettendo una separazione chiara delle responsabilità e facilitando la manutenzione e lo sviluppo. Esempi:
+- Pulsanti
+- Moduli di input
+- Caselle di testo
+- Barre di navigazione
+- Pannelli laterali
+- Elenco di elementi
+ 
+ I framework moderni come React, Angular e Vue.js offrono supporto integrato per lo sviluppo basato su componenti, semplificando la creazione e la gestione di interfacce utente complesse.
+ ## SPA
+ Le "Single Page Applications" (SPA) sono applicazioni web che caricano una sola pagina HTML all'inizio e dinamicamente aggiornano il contenuto della pagina senza ricaricare l'intera pagina durante l'interazione dell'utente. Questo approccio consente di creare esperienze utente fluide e reattive simili a quelle delle applicazioni desktop o mobili.
+
+- Le **SPA** sfruttano l'uso del routing client-side e delle chiamate asincrone per caricare e visualizzare dinamicamente il contenuto sulla stessa pagina, senza la necessità di navigare tra diverse pagine web. 
+- Le SPA sono solitamente implementate utilizzando framework JavaScript come Angular, React, Vue.js, o librerie frontend come React Router e Vue Router.
+## SCRAM 
+- **Scram** è un acronimo che sta per "Salted Challenge Response Authentication Mechanism" (SCRAM), che in italiano significa "Meccanismo di Autenticazione a Risposta di Sfida con Salt". SCRAM è un protocollo di autenticazione crittografica progettato per garantire la sicurezza delle password durante il processo di autenticazione in un sistema informatico.
+
+- Il protocollo SCRAM è progettato per sostituire i protocolli di autenticazione più vecchi e meno sicuri, come il protocollo di autenticazione a risposta di sfida (CRAM) e il metodo di autenticazione di scambio di password (PLAIN), utilizzati in passato nei protocolli di posta elettronica e altri sistemi.
+# tecnica glad,sad,mad
+- La tecnica "Glad, Sad, Mad" incoraggia le persone a esprimere apertamente i loro sentimenti e le loro emozioni in un ambiente sicuro e supportivo. Questo può favorire la consapevolezza emotiva, la comprensione reciproca e la risoluzione dei conflitti all'interno del gruppo. Inoltre, può aiutare a identificare i problemi, le sfide o le opportunità che richiedono attenzione e azione da parte del team.
+
+
+
+
+
+
 
 
 
