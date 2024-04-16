@@ -191,6 +191,7 @@ NPM è uno degli ecosistemi di pacchetti più vasti e attivi al mondo, con milio
 - Il protocollo SCRAM è progettato per sostituire i protocolli di autenticazione più vecchi e meno sicuri, come il protocollo di autenticazione a risposta di sfida (CRAM) e il metodo di autenticazione di scambio di password (PLAIN), utilizzati in passato nei protocolli di posta elettronica e altri sistemi.
 # tecnica glad,sad,mad
 - La tecnica "Glad, Sad, Mad" incoraggia le persone a esprimere apertamente i loro sentimenti e le loro emozioni in un ambiente sicuro e supportivo. Questo può favorire la consapevolezza emotiva, la comprensione reciproca e la risoluzione dei conflitti all'interno del gruppo. Inoltre, può aiutare a identificare i problemi, le sfide o le opportunità che richiedono attenzione e azione da parte del team.
+object orienting programming. 
 
 
 
