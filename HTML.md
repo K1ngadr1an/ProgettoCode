@@ -1,0 +1,1 @@
+da un valore semantico a quello che mettiamo. I browser trasforma l'html con tutti i tag. Ogni tag che scegliamo ha un valore semantico. Branch pricipale html apr pull request mergio . mi risposto su branch main escarico le modifche.
