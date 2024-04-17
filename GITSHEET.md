@@ -25,6 +25,7 @@
 #### **-`git branch`: Mostra l'elenco dei rami presenti.**
 #### **-`git branch nome_ramo`: Crea un nuovo ramo.**
 #### **-`git branch -d nome_ramo`: Cancella il ramo.**
+#### **-`git branch -D nome ramo`: se il branch da cancellare non è ancora stato completamente mergiato
 #### **-`git checkout nome_ramo`: Cambia ramo.**
 #### **-`git checkout -b nome_ramo`: Crea e passa a un nuovo ramo.**
 #### **`-git merge nome_ramo`: Esegue il merge di un ramo nel ramo corrente.**
@@ -47,5 +48,5 @@
 #### **-`git fetch origin`: Recupera i cambiamenti dal repository remoto origin.**
 #### **-`git push origin nome_ramo`: Carica un ramo nel repository remoto origin**
 #### **-`git pull origin nome_ramo`: Tira i cambiamenti dal repository remoto origin e fonde con il ramo corrente.**
-
+#### **-`git push origin` -- delete (nome del branch): per eliminare un branch in remoto(github ecc)
 
